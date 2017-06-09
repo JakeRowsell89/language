@@ -2,4 +2,4 @@ let someVar 15
 let another 12
 let aString "yo soy string" // a comment
 
-+ someVar another aString
++ aString someVar another
